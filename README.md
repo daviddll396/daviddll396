@@ -49,32 +49,43 @@ A document question-answering application with PDF extraction, supporting eviden
 
 [Live application →](https://passage.tolani.xyz/) · [Source & documentation →](https://github.com/daviddll396/Passage)
 
-### ECommAPI
-**An e-commerce API built with ASP.NET Web API.**
+---
 
-A look at my backend work with C# and .NET.
+## 🚀 Current focus
 
-[Explore the repository →](https://github.com/daviddll396/ECommAPI)
+### Useful AI, thoughtful interfaces, reliable applications
 
-### Textdex
-**A React chat application with social sign-in.**
+I'm focused on:
 
-Uses Firebase for Google and Twitter authentication and the ChatEngine API for chat functionality.
-
-[Explore the repository →](https://github.com/daviddll396/Textdex)
-
-### Small experiments
-
-[Gitfinder](https://github.com/daviddll396/Gitfinder) — a React application for finding GitHub users.  
-[Shipping button](https://github.com/daviddll396/ship-order-btn) — an interaction and animation experiment.  
-[Budgety](https://github.com/daviddll396/Budgety) — an income and expense calculator.
+- 🤖 Building AI features that answer useful questions and show where their answers come from.
+- 🧪 Evaluating prompts and handling incomplete documents, unexpected responses, and other edge cases.
+- ⚡ Improving frontend performance and making interactions feel responsive.
+- 🛠 Taking applications from an idea through implementation and deployment.
 
 ---
 
+## 📈 GitHub analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=daviddll396&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="Tolani's public GitHub statistics" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=daviddll396&amp;theme=tokyonight&amp;hide_border=true" alt="Tolani's GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviddll396&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Languages used in Tolani's public repositories" />
+</p>
+
+<sub>Language statistics describe code in public repositories. They do not measure proficiency or include all of my work.</sub>
+
+---
+
+## 🤝 Let's work together
+
+Interested in web applications, payment systems, or a useful AI product? I'd love to connect.
+
 <div align="center">
 
-**Have a project in mind?**
-
-[Visit my portfolio](https://daviddll.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://daviddll.vercel.app/)
+[![Passage](https://img.shields.io/badge/Passage-Try_It_Live-ED947C?style=for-the-badge&logo=readdotcv&logoColor=111827)](https://passage.tolani.xyz/)
 
 </div>
